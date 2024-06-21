@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt 
 import plotly.express as px
 import plotly.figure_factory as ff
-from Utils.authenticator import app
+
 
 st.set_page_config(
     page_title="Dashboard Page", 
